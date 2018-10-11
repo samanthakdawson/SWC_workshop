@@ -1,0 +1,10 @@
+data/
+results/
+*pdf
+.bash_profile
+creatures/
+molecules/
+molecules_backup/
+north-pacific-gyre/
+thesis_2018/
+writing/
