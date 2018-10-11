@@ -17,4 +17,7 @@ for filename in $INPUT_DIR/*.pdb
   wc -l $filename | sort -n | head -n 1 >> $RESULTS_DIR/lengths.txt 
 done
 
+#to then print out results
 cat $RESULTS_DIR/lengths.txt
+
+#end of file
