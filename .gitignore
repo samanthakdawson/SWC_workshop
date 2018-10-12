@@ -9,3 +9,5 @@ north-pacific-gyre/
 thesis_2018/
 writing/
 .Rproj.user
+
+!data/feline-dat.csv
