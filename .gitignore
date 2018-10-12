@@ -1,4 +1,7 @@
-data/
+data/pdb
+data/elements
+data/animal-counts
+data/*.txt
 results/
 *pdf
 .bash_profile
@@ -10,4 +13,4 @@ thesis_2018/
 writing/
 .Rproj.user
 
-!data/feline-dat.csv
+
