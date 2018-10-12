@@ -7,8 +7,8 @@ Please try our code by clicking on:
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/samanthakdawson/SWC_workshop/tree/master/master)
 
 
-#how to get it
+# How to get it
 
-#how ot use it
+# How ot use it
 this code is given as is. No support and no pull request will be accpted
 
